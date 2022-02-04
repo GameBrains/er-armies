@@ -1,0 +1,6 @@
+name: armies
+title: Armies
+version: master
+
+nav:
+- modules/ROOT/nav.adoc
