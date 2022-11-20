@@ -4,5 +4,6 @@
 ****
 You can find the latest developments on the Remastered army lists in our detachment builder at link:https://builder.epicremastered.com[^]. (We intend to mirror the builder content here eventually too.)
 
-You can also find the original _Epic 40,000_ army lists at link:https://thehobby.zone/resources/e40k-compendium/Content/Armies/Armies.htm[^]. (And 'lore' at link:https://thehobby.zone/resources/e40k-compendium/Content/Lore/Lore.htm[^])
+You can also find the original {e40k} army lists at link:https://thehobby.zone/resources/e40k-compendium/Content/Armies/Armies.htm[^] (external URL).
+And you can find related 'lore' at link:https://thehobby.zone/resources/e40k-compendium/Content/Lore/Lore.htm[^] (external URL).
 ****
