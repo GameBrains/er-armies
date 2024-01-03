@@ -1,6 +1,6 @@
 name: armies
 title: Armies
-version: master
+version: ~
 
 nav:
 - modules/ROOT/nav.adoc
