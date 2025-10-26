@@ -1,5 +1,24 @@
 = Armies
 
+// Exclude from PDF output (show only in HTML output).
+ifndef::loader-assembler[]
+_Version: {revnumber} | Date of this build: {docdate}_
+endif::[]
+
+// Frontmatter to show only in PDF output.
+ifdef::loader-assembler[]
+// Colophon: Show only in PDF output.
+[preface]
+include::home::partial$colophon.adoc[]
+endif::[]
+
+// Table of contents: Not relevant for HTML output. Make sure that this code is *after* all content that we want to treat as frontmatter in the PDF output.
+ifdef::loader-assembler[]
+include::home::partial$toc.adoc[]
+endif::[]
+
+== {project-name}: Armies -- the army lists
+
 .Under development
 ****
 You can find the latest developments on the Remastered army lists in our detachment builder at link:https://builder.epicremastered.com[^]. (We intend to mirror the builder content here eventually too.)
